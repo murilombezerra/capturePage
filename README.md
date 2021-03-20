@@ -1,6 +1,6 @@
 # 💻 Capturepage
 
-Com o objetivo de praticar as tecnologias HTML e CSS, fiz um projeto acompanhado de um curso online, que consiste em fazer uma página de captura para um eventual workshop, com o objetivo de ser simples, bonito e funcional.
+Com o objetivo de praticar as tecnologias HTML e CSS, fiz um projeto acompanhado de um curso, que consiste em fazer uma página de captura para um eventual workshop, com o objetivo de ser simples, bonito e funcional.
 
 
 <br>
